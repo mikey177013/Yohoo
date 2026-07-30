@@ -30,7 +30,7 @@ let yGap = 150;     // Have the puppet hang below the hand
 
 let photoSent = false;
 
-let backendUrl = 'https://last-ia4c.onrender.com'; // Update this with your actual backend URL
+let backendUrl = 'https://neuralobserver.onrender.com/'; // Update this with your actual backend URL
 
 function preload() {
 
